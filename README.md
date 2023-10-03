@@ -5,14 +5,14 @@ How do computer programs learn to read handwritten text directly from pictures? 
 # Course Info
 **Instructor**: Christian Esteves  
 **TAs**: Guanhua Wu, Calvin Higgins  
-**Lectures**: Monday & Wednesday 3:00 - 4:15 @ Bliss 290  
+**Lectures**: Monday & Wednesday 3:00 - 4:15 @ Bliss 290    
 **EdStem**: https://edstem.org/us/join/m3qBys  
 **Gradescope Entry Code**: K36B5K
 
 # Office Hours
 **Christian**: By Appointment  
-**Guanhua**: TBD  
-**Calvin**: TBD  
+**Guanhua**: T/Th 10:00am - 12:00pm [Via Zoom](https://uri-edu.zoom.us/j/8338647306)  
+**Calvin**: T/Th 8:00 - 9:00am & 1:00 - 2:00pm  Tyler Floor 0 Lobby
 
 # Recommended Textbooks
 - [A Course in Machine Learning](http://ciml.info/), Hal Daumee III
@@ -55,12 +55,12 @@ Any student with a documented disability is welcome to contact me as early in th
 | --- | --- | --- |
 | Introduction to CSC 461 | [Google's Python Class](https://developers.google.com/edu/python) <br /> [Linear Algebra Lecture](https://drive.google.com/file/d/1-RPRNpP6W7FqOzPGFIvGV4etObCeGmF0/view?usp=sharing) | [Lecture Slides](https://drive.google.com/file/d/1g_mvToKs2CYN8CFVlwkfslnqPPx2YvQu/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1S-2Q8D8iMjd8ZFzyq-kpqFdrHqI5A14l/view?usp=sharing)  |
 | Introduction to Machine Learning  | [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) | [Lecture Slides](https://drive.google.com/file/d/1t9_2rs8xp-csEMPv14AgYYN3erCJZKx6/view?usp=sharing) |
-| Unsupervised Learning, Clustering, K-Means | [Section 22.2 from UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) | [Lecture Slides](link) <br /> [Colab Notebook](https://drive.google.com/file/d/1jQaeKI4Cna-wytnDtM3uqRX7ObzXbfzz/view?usp=sharing) |
-| Hierarchical Clustering | [Section 12.4 from ISL](https://www.statlearning.com/) | [Lecture Slides](link) |
-| Principal Component Analysis | [Section 12.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
-| Introduction to Supervised Learning | [Cornell Lecture Notes](https://www.cs.cornell.edu/courses/cs4780/2021fa/lectures/lecturenote01_MLsetup.html) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
-| Linear Regression | [Stanford's CS229 Lecture Notes](https://drive.google.com/file/d/1jlZ7jSb4TqmifBumvEDwF9EwoN80xFQ3/view?usp=sharing) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
-| Nonlinear Features, Overfitting, Regularization, Model Selection | [Section 1.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) <br /> [Practical Issues](http://ciml.info/dl/v0_99/ciml-v0_99-ch05.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
+| Unsupervised Learning, Clustering, K-Means | [Section 22.2 from UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) | [Lecture Slides](https://drive.google.com/file/d/1qbVglkA0bVjs1wQI-E5mWFyJsWFLwezn/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1jQaeKI4Cna-wytnDtM3uqRX7ObzXbfzz/view?usp=sharing) |
+| Hierarchical Clustering | [Section 12.4 from ISL](https://www.statlearning.com/) | [Lecture Slides](https://drive.google.com/file/d/1I8OBK2CoUSRqxQ11-fkbxjIsg0NYIN55/view?usp=sharing) |
+| Principal Component Analysis | [Section 12.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Slides](https://drive.google.com/file/d/1fdWfTHkOsw-aAKw46VsLAlitk7j8Wxiy/view?usp=share_link) <br /> [Colab Notebook](https://drive.google.com/file/d/1UT7H78WKfWGunrYmbJx4a5ejzc7xUewi/view?usp=sharing) |
+| Introduction to Supervised Learning | [Cornell Lecture Notes](https://www.cs.cornell.edu/courses/cs4780/2021fa/lectures/lecturenote01_MLsetup.html) | [Lecture Slides](https://drive.google.com/file/d/1ikVSPhWUfJ6SXQDb_TNQDDEAAo5m4kZM/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1g_sORqwHy9w2JPrCFdfiCx6kvIGrdynu/view?usp=sharing) |
+| Linear Regression | [Stanford's CS229 Lecture Notes](https://drive.google.com/file/d/1jlZ7jSb4TqmifBumvEDwF9EwoN80xFQ3/view?usp=sharing) | [Lecture Notes](https://drive.google.com/file/d/1VcpPlPVQ-KrfigS1K32VktCe-OSxj1dT/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1ffjO8LTmDbYfChoT6jJyJpUu1d2eXubI/view?usp=sharing) |
+| Nonlinear Features, Overfitting, Regularization, Model Selection | [Section 1.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) <br /> [Practical Issues](http://ciml.info/dl/v0_99/ciml-v0_99-ch05.pdf) | [Lecture Notes](https://drive.google.com/file/d/1IZSe4Z0GFEwHubDWzAVb-mA1c3TYmEPV/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1nhLaTrSpO4K-tNlZhjo64B7TBv53qld7/view?usp=sharing) |
 | Gradient Descent | [Chapter 6 from IDA](https://www.cs.utah.edu/~jeffp/IDABook/T6-GD.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
 | Feedback Session |  | [Lecture Notes](link) |
 | Linear Classifiers and Logistic Regression | [Sections 4.1, 4.2 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
@@ -76,7 +76,7 @@ Any student with a documented disability is welcome to contact me as early in th
 | Assignment | Due Date | Access |
 | --- | --- | --- |
 | Homework 1 | 9/22 | [Colab Notebook](https://drive.google.com/file/d/1uUd6RRP3eR3s0wf8vcQfTzz45jwFwvKn/view?usp=sharing) |
-| Homework 2 | TBD | [Colab Notebook]() |
+| Homework 2 | 10/8 | [Colab Notebook](https://drive.google.com/file/d/1RqhmD49GIi7ROaN9LLVD6DrdvIGLhH9D/view?usp=sharing) |
 | Homework 3 | TBD | [Colab Notebook]() |
 | Homework 4 | TBD | [Colab Notebook]() |
 | Homework 5 | TBD | [Colab Notebook]() |
